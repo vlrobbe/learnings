@@ -1,5 +1,6 @@
 https://hackernews.com
 https://tweakers.net/
+https://techcrunch.com/
 https://nl.mathworks.com/products/matlab.html
 https://www.ros.org/
 https://www.nvidia.com/gtc/keynote/
