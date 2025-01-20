@@ -1,1 +1,1 @@
-This repo contains charts I personally made for usage in my blog/ IDE. 
+This repo contains charts I made for usage in my blog/ IDE. 
